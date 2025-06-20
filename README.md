@@ -35,7 +35,7 @@ This project demonstrates the **generation of Tables, Listings, and Figures (TLF
 
 ## 🧾 Sample Output (TLF Table 14.1.2.1)
 
-
+![Image](https://github.com/user-attachments/assets/900da894-d924-4b71-b462-b8ba006992e0)
 
 ---
 
