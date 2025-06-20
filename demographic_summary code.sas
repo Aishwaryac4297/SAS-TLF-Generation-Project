@@ -1,4 +1,4 @@
-PROC IMPORT DATAFILE="C:\Users\Aishwarya\Desktop\project+notes\SAS Project Table-DM Raw data.xlsx"
+PROC IMPORT DATAFILE="C:\Users\project+notes\SAS Project Table-DM Raw data.xlsx"
 OUT= DM
 DBMS= XLSX REPLACE;
 RUN;
